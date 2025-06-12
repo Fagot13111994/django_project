@@ -3,7 +3,7 @@
     * Author           : KreativDev
     * File Description : This file contains the javaScript functions for the actual template, this
                         is the file you need to edit to change the functionality of the template.
-    *------------------------------------------------------------ 
+    *------------------------------------------------------------
 */
 
 !(function($) {
